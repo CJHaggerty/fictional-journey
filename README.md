@@ -1,2 +1,2 @@
-# fictional-journey
-Lots of basic programs that I practiced with
+# Say-Hello
+My very first program
